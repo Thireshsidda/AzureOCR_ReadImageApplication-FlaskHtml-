@@ -1,0 +1,1 @@
+# AzureOCR_ReadImageApplication-Flask-
