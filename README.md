@@ -22,3 +22,11 @@ conda activate venv/
 Step4:
 ```
 pip install -r requirements.txt
+```
+
+
+
+Step5:
+```
+Run Command "python extracting_texts.py" in your terminal
+```
